@@ -1,13 +1,6 @@
 {
   "courses": [
     {
-      "id": 1,
-      "title": "Securing React Apps with Auth0",
-      "slug": "react-auth0-authentication-security",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
       "id": 2,
       "title": "React: The Big Picture",
       "slug": "react-big-picture",
@@ -55,52 +48,6 @@
       "slug": "architecting-applications-dotnet",
       "authorId": 1,
       "category": "Software Architecture"
-    },
-    {
-      "id": 9,
-      "title": "Becoming an Outlier: Reprogramming the Developer Mind",
-      "slug": "career-reboot-for-developer-mind",
-      "authorId": 1,
-      "category": "Career"
-    },
-    {
-      "id": 10,
-      "title": "Web Component Fundamentals",
-      "slug": "web-components-shadow-dom",
-      "authorId": 1,
-      "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "slug": "gfuyigu",
-      "title": "gfuyigu",
-      "authorId": 1,
-      "category": "kugugiu9",
-      "createdAt": 1587573345166
-    },
-    {
-      "id": 12,
-      "slug": "rays-world",
-      "title": "Rays world",
-      "authorId": 2,
-      "category": "The real Ray Chidaz",
-      "createdAt": 1587573655068
-    },
-    {
-      "id": 13,
-      "slug": "rays-world-ii",
-      "title": "Rays world II",
-      "authorId": 1,
-      "category": "All the money in the world",
-      "createdAt": 1587574525929
-    },
-    {
-      "id": 14,
-      "slug": "candlestick-chart-example",
-      "title": "Candlestick Chart Example",
-      "authorId": 1,
-      "category": "React",
-      "createdAt": 1587595832700
     }
   ],
   "authors": [
